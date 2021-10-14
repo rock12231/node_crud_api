@@ -3,10 +3,10 @@ Node API using Express without database
 
 
 # install:
-npm i
-npm install uuid
-npm install express
-npm install nodemon
+1. npm i
+2. npm install uuid
+3. npm install express
+4. npm install nodemon
 
 # Run :
 npm start
