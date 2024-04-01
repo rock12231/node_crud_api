@@ -13,6 +13,8 @@ Node API using Express without database
 ## Run :
 ```npm start```
 
+## Global API :
+```https://node-crud-api-fyx1.onrender.com/```
 
 
 ```
